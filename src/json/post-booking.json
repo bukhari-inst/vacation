@@ -1,0 +1,13 @@
+{
+  "duration": "2",
+  "price": "240",
+  "bookingDateStart": "new Date()",
+  "bookingDateEnd": "new Date()",
+  "firstName": "Bukhari",
+  "lastName": "Inst",
+  "emailAddress": "bukhari414647@gmail.com",
+  "phoneNumber": "+62823338644961",
+  "accountHolder": "Bukhari Inst",
+  "bankFrom": "BRI",
+  "proofPayment": "FileData()"
+}
